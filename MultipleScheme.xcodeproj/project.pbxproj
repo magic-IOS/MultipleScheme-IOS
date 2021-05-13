@@ -303,7 +303,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.TMPL.MultipleScheme.dev;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.magic-ios.MultipleScheme.dev";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SERVER_URL = "https://www.dev.com";
@@ -326,7 +326,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.TMPL.MultipleScheme;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.magic-ios.MultipleScheme";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SERVER_URL = "https://www.release.com";
@@ -411,7 +411,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.TMPL.MultipleScheme.qa;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.magic-ios.MultipleScheme.qa";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SERVER_URL = "https://www.qa.com";
